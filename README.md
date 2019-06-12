@@ -10,6 +10,7 @@ The experiment assumes the following input files to be available
 
 in the following directory structure 
 
+```
 <logroot>
   +- /BPIC11/hospital_log.xes.gz
   +- /BPIC12/financial_log.xes.gz
@@ -44,7 +45,7 @@ in the following directory structure
   +- /TKDE_Benchmark/BPIC17_f.xes.gz
   +- /TKDE_Benchmark/RTFMP.xes.gz
   +- /TKDE_Benchmark/SEPSIS.xes.gz
-  
+```
   
 ##Running the Experiment
 
