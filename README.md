@@ -1,7 +1,9 @@
 # exp-abstractions-in-pm-KAIS
 The experiment conducted for the paper Sander J.J. Leemans, Dirk Fahland "Information-Preserving Abstractions of Event Data in Process Mining" Knowledge and Information Systems, ISSN: 0219-1377 (Print) 0219-3116 (Online), accepted May 2019
 
-##Data
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3243981.svg)](https://doi.org/10.5281/zenodo.3243981)
+
+## Data
 
 The experiment assumes the following input files to be available
 
@@ -47,7 +49,7 @@ in the following directory structure
   +- /TKDE_Benchmark/SEPSIS.xes.gz
 ```
   
-##Running the Experiment
+## Running the Experiment
 
 Invoke: java -jar exp-abstractions-in-pm-KAIS.jar <logRoot> <outputPath>
 
